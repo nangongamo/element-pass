@@ -65,11 +65,19 @@ https://eledao.io/nft
 
 **定价**
 
-白单价：0.18E/个
+- 白单价：0.18E/个
 
-公售价：0.25E/个
+- 公售价：0.25E/个
 
 注：白单阶段就已全部打完（分必中白和幸运白两种）
+
+**发行链**
+
+以太坊
+
+**合约地址**
+
+[0x67405cadb820c2d89b8d6da3e42ef6a39089c831](https://etherscan.io/address/0x67405cadb820c2d89b8d6da3e42ef6a39089c831)
 
 **NFT 集合**
 
@@ -109,4 +117,46 @@ https://element.market/collections/element-pass-genesis
 |[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
 
 ## EP 系列之 EPS
-TODO
+
+### 发售
+
+**Mint 时间**
+
+- 必中白：4月14日 19:00（SGT）
+
+- 幸运白：4月14日 21:00（SGT）
+
+- 公售：4月14日 23:00 （SGT）
+
+**开图时间**
+
+2023年6月15日
+
+
+**Mint 网站**
+
+https://eledao.io/nft
+
+**总量**
+
+20000
+
+**定价**
+
+- 白单价：0.045E/个
+
+- 公售价：0.06E/个
+
+注：白单阶段就已全部打完（分必中白和幸运白两种）
+
+**发行链**
+
+以太坊
+
+**合约地址**
+
+[0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb](https://etherscan.io/address/0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb)
+
+**NFT 集合**
+
+https://element.market/collections/element-pass-standard
