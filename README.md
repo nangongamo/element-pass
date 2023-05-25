@@ -42,7 +42,31 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 
 ## EP 系列之 EPG
 
-生态合作伙伴入驻
+### 发售
+**Mint 时间**
+
+2023年3月21日19:00点 (SGT)/11:00点(UTC)
+
+**Mint 网站**
+
+https://eledao.io/nft
+
+**总量**
+
+2500
+
+**定价**
+白单价：0.18E/个
+公售价：0.25E/个
+
+注：白单阶段就已全部打完（分必中白和幸运白）
+
+
+### 1/1 NFT
+
+
+### 生态合作伙伴入驻
+
 |项目名|项目类型|官宣时间| NFT 编号| 成本价(E)|稀有排名|拥有者|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[Debox](https://debox.pro/)|Web3 社交|2023/3/31 [推特](https://twitter.com/DeBox_Social/status/1641707256919265280?s=20)|[#190](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/190)|0.317|1752|[DeBox_Social](https://element.market/account/0x36ff2468daa79f52d88d7359a631cf7ab4bdc8bb)|
