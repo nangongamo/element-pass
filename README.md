@@ -1,15 +1,15 @@
 # Element NFT 权益卡介绍 
 **Element Pass** 是为 [ELE DAO](https://eledao.io) 成员和 [Element](https://element.market) 社区用户发行的带权益属性的 NFT 集合，作为一个平台权益系列，简称 EP，其中包括 EPG 和 EPS 两种类型的权益卡。持有者有机会参与到 Element 可能带给 Web3 的革命性创新的过程中来，同时，通过追随 Element 及使用 Element Web3 产品，来获得超级奖励。
-
+## EPG vs EPS
 Element 创世权益卡（Element Pass Genesis），简称 **EPG**。
 
 ![EPG](./assets/epg/EPG.webp)
 
 Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 
-> 注：EPS 6月份开图。
+![EPS](./assets/eps/EPS.jpeg)
 
-
+**两者对比**
 
 ||EPG|EPS|
 |:--:|:--:|:--:|
@@ -18,7 +18,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |场景|创世 NFT 权益卡作为平台权益的价值锚定。|随着用户忠诚度增长的增益 NFT 权益卡|
 
 
-**EPG 权益**
+### EPG 权益
 
 - ELEDAO 创世成员身份；
 - 内测资格、NFT 质押（获取 $ELE token）；
@@ -26,7 +26,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 - 获得生态系统伙伴的白名单及 Token 空投；
 - 有机会获得 Launchpad 项目的空投和幸运抽奖。
 
-**EPS 权益**
+### EPS 权益
 
 - ELEDAO 成员身份；
 - 内测资格；
@@ -35,7 +35,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 - 享有与 VIP4用户同等的权利；
 - 有机会获得生态系统伙伴的Token、NFT、白名单等空投。 
 
-**总结**
+### 总结
 
 简单点说，EPG 是 To B， 面向生态系统伙伴（平台的合作方）；而 EPS 则是 To C，面向社区用户（平台的消费者），带有用户激励属性在，增加用户对平台的忠诚度、活跃度，通过这些忠诚度计划（NFT 挂单、NFT 交易等等）让持有者获得相应的奖励。
 
@@ -56,14 +56,20 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |[Abyss World](https://www.abyssworld.games/)|游戏|2023/4/26 [推特](https://twitter.com/AbyssWorldHQ/status/1651107460181295104?s=20)|[#1285](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1285)|0.215|1016|[0x772...1604](https://element.market/account/0x772ce7aa48558e8e31878fe79890d38f857f1604)|
 |[Legend of Arcadia](https://legendofarcadia.io/)|游戏|2023/5/8 [推特](https://twitter.com/LegendofArcadia/status/1655551297880481792?s=20)|[#281](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/281)|0.18|710|[0xcb2...e204](https://element.market/account/0xcb2fdb77c60bb4aad4ed71804fc403f1e650e204)|
 |[YuriAI](http://yuri-ai.com)|AIGC|2023/5/9 [推特](https://twitter.com/YuriAI_Official/status/1655868292949774337?s=20)|[#1538](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1538)|0.65|1909|[0xb18...2393](https://element.market/account/0xb189f02e4a75fdff156ed077a6597d74349d2393)|
-|[Foresight News](https://foresightnews.pro)|资讯|2023/5/11 [推特](https://twitter.com/Foresight_News/status/1656570041381552132?s=20)|[#1279](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1279)|0.18|970|[0xa33...cef1](https://element.market/account/0xa331a3bafb586a4d65dce579f220dfbd5ac8cef1)|
+|[Foresight News](https://foresightnews.pro)|媒体资讯|2023/5/11 [推特](https://twitter.com/Foresight_News/status/1656570041381552132?s=20)|[#1279](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1279)|0.18|970|[0xa33...cef1](https://element.market/account/0xa331a3bafb586a4d65dce579f220dfbd5ac8cef1)|
 |HOLO 研究院|媒体&研究|2023/5/13 [推特](https://twitter.com/holoinst/status/1657390416923344899?s=20)|[#1051](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1051)|0.18|237|[0x511...c89d](https://element.market/account/0x511b85366451f24d998a7cabeb590a7f6465c89d)|
 |[Gameta](https://www.gameta.pro)|游戏|2023/5/15 [推特](https://twitter.com/Gameta_Official/status/1658079789591277572?s=20)|[#956](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/956)|0.65|981|[0xf5b...98b2](https://element.market/account/0xf5b46f33f41b1a020d0bbbfcda9c0e93cb3598b2)|
 |[zkSync Doge](http://zkdoge.org/)|NFT|2023/5/16 [推特](https://twitter.com/zksync_doge/status/1658356643669889025?s=20)|[#1853](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1853)|0.425|2016|[0x38f...3cc0](https://element.market/account/0x38fc3840f17b444d8a7a954ae70cd276d12e3cc0)|
 |[Club3](https://www.club3.xyz/)|Web3 社区|2023/5/16 [推特](https://twitter.com/club3xyz/status/1658380414380285957?s=20)|[#177](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/177)|0.18|2177|[arnoxu.eth](https://element.market/account/0x4ff992f801a4b363bff45961f87859777646638c)|
 |zkSync Today|媒体&研究|2023/5/16 [推特](https://twitter.com/zkSyncToday_/status/1658419199071617025?s=20)|[#2394](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.52|269|[0x6c3...bd87](https://element.market/account/0x6c34193ac410a7aa920d6c4f9176434dc8debd87)|
 |[TokenPocket](https://www.tokenpocket.pro/)|Web3 钱包|2023/5/18 [推特](https://twitter.com/TokenPocket_TP/status/1659073614547755009?s=20)|[#200](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/200)|0.2469|48|[itokenpocket](https://element.market/account/0x7a5dcacc92c7e15d61fad56c67d2edd001d142b7)|
+|[ChainCatcher](https://www.chaincatcher.com/)|媒体资讯|2023/5/22 [推特](https://twitter.com/ChainCatcher_/status/1660566227646033921?s=20)|[#696](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/696)|0.678|604|[henryyuan](https://element.market/account/0x3f24c2f6a72454afe497f54e6a18b46ed5045dee)|
+|SEA 漫游公会|链游公会|2023/5/23 [推特](https://twitter.com/SNEBtongxuehui/status/1660876529486942209?s=20)|[#542](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/542)|0.18|1361|[0xb3c...f7777](https://element.market/account/0xb3c3eb6f25dfa70c5111381b9e7a8cd0e40ff777)|
 |ORC20 Dao|DAO 社区|2023/5/23 [推特](https://twitter.com/Ordinals_Orc20/status/1660916076870533120?s=20)|[#491](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/491)|0.618|1518|[0x9c8...94d6](https://element.market/account/0x9c8337039978ec35b6b25985ddcbb25dde9e94d6)|
+|[UltiVerse](https://www.ultiverse.io)|元宇宙|2023/5/23 [推特](https://twitter.com/UltiverseDAO/status/1661027608681930753?s=20)|[#515](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/515)|0.214|1885|[0xc39...ca0c](https://element.market/account/0xc39dd31c41b136a6e9e5cdb5afca7c2b1b0dca0c)|
 |[GoodLuck Pandas](https://goodluckpandas.com/)|DAO 社区|2023/5/24 [推特](https://twitter.com/GoodLuckPandas/status/1661269795348819968?s=20)|[#1450](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1450)|0.787|2444|[bucuo.eth](https://element.market/account/0xf743a6bf3a86398b6ab1ee1af603907acd89f1d9)|
 |[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+
 ## EP 系列之 EPS
+TODO
