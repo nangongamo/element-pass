@@ -43,9 +43,17 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 ## EP 系列之 EPG
 
 ### 发售
+
 **Mint 时间**
 
 2023年3月21日19:00点 (SGT)/11:00点(UTC)
+![EPG Mint](./assets/epg/EPG-Mint.jpeg)
+
+
+**开图时间**
+
+2023年4月4日
+![EPG 开图](./assets/epg/EPG-Avatar.jpeg)
 
 **Mint 网站**
 
@@ -56,11 +64,16 @@ https://eledao.io/nft
 2500
 
 **定价**
+
 白单价：0.18E/个
+
 公售价：0.25E/个
 
-注：白单阶段就已全部打完（分必中白和幸运白）
+注：白单阶段就已全部打完（分必中白和幸运白两种）
 
+**NFT 集合**
+
+https://element.market/collections/element-pass-genesis
 
 ### 1/1 NFT
 
