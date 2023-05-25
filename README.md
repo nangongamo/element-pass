@@ -43,12 +43,15 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 ## EP 系列之 EPG
 
 生态合作伙伴入驻
-|项目名|项目类型|官宣时间| NFT 编号| 成本价(E)|拥有者|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|[Debox](https://debox.pro/)|Web3 社交|2023/3/31 [推特](https://twitter.com/DeBox_Social/status/1641707256919265280?s=20)|[#190](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/190)|0.317|[DeBox_Social](https://element.market/account/0x36ff2468daa79f52d88d7359a631cf7ab4bdc8bb)|
-|[Baby Wealthy Club](https://babywealthyclub.com/)|Web3 Club|2023/4/1 [推特](https://twitter.com/BabyWealthyClub/status/1642055523674771461?s=20)|[#51](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/51)|0.18|[0x64b...0587](https://element.market/account/0x64bbd415477825825602373232121a3034a20587)|
-|-|-|-|-|0.18|[0x....](https://element.market/account/)|
-
-
+|项目名|项目类型|官宣时间| NFT 编号| 成本价(E)|稀有排名|拥有者|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|[Debox](https://debox.pro/)|Web3 社交|2023/3/31 [推特](https://twitter.com/DeBox_Social/status/1641707256919265280?s=20)|[#190](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/190)|0.317|1752|[DeBox_Social](https://element.market/account/0x36ff2468daa79f52d88d7359a631cf7ab4bdc8bb)|
+|[Baby Wealthy Club](https://babywealthyclub.com/)|BNB 生态|2023/4/1 [推特](https://twitter.com/BabyWealthyClub/status/1642055523674771461?s=20)|[#51](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/51)|0.18|1318|[0x64b...0587](https://element.market/account/0x64bbd415477825825602373232121a3034a20587)|
+|[BabySwap](https://home.babyswap.finance/)|BNB 生态|2023/4/3 [推特](https://twitter.com/babyswap_bsc/status/1642845900551909376?s=20)|[#380](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/380)|0.18|521|[0x226...33f0](https://element.market/account/0x226139dcf98fef608f1fa0edebd6f799f3df33f0)|
+|[MixVerse](https://www.mixverse.com/)|元宇宙|2023/4/16 [推特](https://twitter.com/Mixverse_/status/1647525243404316673?s=20)|[#582](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/582)|0.296|141|[0xb6c...2c69](https://element.market/account/0xb6c185420522005efb2be3172bd1ac30b9a12c69)|
+|[PlurDAO](https://plur.io/)|3D NFT|2023/4/19 [推特](https://twitter.com/PLUR_DAO/status/1648662230064582657?s=20)|[#282](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/282)|0.18|126|[0xcb2...e204](https://element.market/account/0xcb2fdb77c60bb4aad4ed71804fc403f1e650e204)|
+|[Plant Crossing](https://plant-crossing.com/)|游戏&社交|2023/4/20 [推特](https://twitter.com/PlantCrossing22/status/1648951116728791042?s=20)|[#1432](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.636|145|[0xbfe...7f3e](https://element.market/account/0xbfe1851d851700d64b0c4cfdeb5fff1b88ab7f3e)|
+|[Kepler](https://kepler.homes/)|游戏|2023/4/21 [推特](https://twitter.com/KeplerHomes/status/1649319423252254720?s=20)|[#637](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.56|199|[0x326...dd99](https://element.market/account/0x326b0a86e6fe24d781f3779191ec8c42bd2ddd99)|
+|[-]()|-|2023/4/3 [推特]()|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
 
 ## EP 系列之 EPS
