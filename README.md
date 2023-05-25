@@ -53,5 +53,11 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |[Plant Crossing](https://plant-crossing.com/)|游戏&社交|2023/4/20 [推特](https://twitter.com/PlantCrossing22/status/1648951116728791042?s=20)|[#1432](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1432)|0.636|145|[0xbfe...7f3e](https://element.market/account/0xbfe1851d851700d64b0c4cfdeb5fff1b88ab7f3e)|
 |[Kepler](https://kepler.homes/)|游戏|2023/4/21 [推特](https://twitter.com/KeplerHomes/status/1649319423252254720?s=20)|[#637](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/637)|0.56|199|[0x326...dd99](https://element.market/account/0x326b0a86e6fe24d781f3779191ec8c42bd2ddd99)|
 |[Star Protocol](https://star.co/)|社交&聚合|2023/4/24 [推特](https://twitter.com/star_protocol/status/1650412888136495105?s=20)|[#499](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/499)|0.579|2095|[0xa17...90a5](https://element.market/account/0xa17abe4b6fc3023521da65581424ce35a9d290a5)|
+|[Abyss World](https://www.abyssworld.games/)|游戏|2023/4/26 [推特](https://twitter.com/AbyssWorldHQ/status/1651107460181295104?s=20)|[#1285](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1285)|0.215|1016|[0x772...1604](https://element.market/account/0x772ce7aa48558e8e31878fe79890d38f857f1604)|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
+|[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
 
 ## EP 系列之 EPS
