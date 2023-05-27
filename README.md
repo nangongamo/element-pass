@@ -116,6 +116,19 @@ https://element.market/collections/element-pass-genesis
 |[DA-AGE](https://www.da-age.io/)|XR 广告|2023/5/25 [推特](https://twitter.com/DA_AGE_CN/status/1661595974517796864?s=20)|[#492](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/492)|0.18|501|[0xaa3...caa2](https://element.market/account/0xaa3848013ccc561237abaf33b6f3562cd98acaa2)|
 |[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
 
+### 权益
+
+**第一期 $ELE 空投**
+
+![第一期 $ELE 空投](./assets/epg/EPG-Airdrop-ELE-1.jpeg)
+
+2023/5/15-2023/6-15 为 EPG 持有者空投 10000 $ELE 代币（未上链，目前是站内积分），30天内线性释放，即每天每个 EPG 持有者可获得 334 个 $ELE。
+
+**第二期 $ELE 空投**
+
+待定，未公布细则
+
+
 ## EP 系列之 EPS
 
 ### 发售
