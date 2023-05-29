@@ -3,13 +3,9 @@
 ## EPG vs EPS
 Element 创世权益卡（Element Pass Genesis），简称 **EPG**。
 
-![EPG](./assets/epg/EPG.webp)
 
 Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 
-![EPS](./assets/eps/EPS.jpeg)
-
-**两者对比**
 
 ||EPG|EPS|
 |:--:|:--:|:--:|
@@ -17,7 +13,8 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |功能|治理 & 质押 & 生态空投 & 产品特权|治理 & 质押 & 生态空投 & 产品特权|
 |场景|创世 NFT 权益卡作为平台权益的价值锚定。|随着用户忠诚度增长的增益 NFT 权益卡|
 
-**Mint 信息**
+
+## Mint 信息
 
 ||EPG|EPS|
 |:--:|:--:|:--:|
@@ -37,7 +34,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 
 
 
-### EPG 权益
+**EPG 权益**
 
 - ELEDAO 创世成员身份；
 - 内测资格、NFT 质押（获取 $ELE token）；
@@ -45,7 +42,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 - 获得生态系统伙伴的白名单及 Token 空投；
 - 有机会获得 Launchpad 项目的空投和幸运抽奖。
 
-### EPS 权益
+**EPS 权益**
 
 - ELEDAO 成员身份；
 - 内测资格；
@@ -54,7 +51,7 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 - 享有与 VIP4用户同等的权利；
 - 有机会获得生态系统伙伴的Token、NFT、白名单等空投。 
 
-### 总结
+**总结**
 
 简单点说，EPG 是 To B， 面向生态系统伙伴（平台的合作方）；而 EPS 则是 To C，面向社区用户（平台的消费者），带有用户激励属性在，增加用户对平台的忠诚度、活跃度，通过这些忠诚度计划（NFT 挂单、NFT 交易等等）让持有者获得相应的奖励。
 
