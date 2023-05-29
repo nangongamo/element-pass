@@ -17,6 +17,25 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |功能|治理 & 质押 & 生态空投 & 产品特权|治理 & 质押 & 生态空投 & 产品特权|
 |场景|创世 NFT 权益卡作为平台权益的价值锚定。|随着用户忠诚度增长的增益 NFT 权益卡|
 
+**Mint 信息**
+
+||EPG|EPS|
+|:--:|:--:|:--:|
+|Pass 总量|2500|20,000|
+|Mint 时间|2023年3月21日|2023年4月14日|
+|Mint 平台|[ELE DAO](https://eledao.io)|[ELE DAO](https://eledao.io)|
+|Free Mint|0|2500 |
+|Mint 价格|0.18 E |0.045 E |
+|开图时间|2023年4月4日|2023年6月15日|
+|质押时间|2023年5月15日|2023年6月6日|
+|链上发行|以太坊|以太坊|
+|合约地址|[0x674...c831](https://etherscan.io/address/0x67405cadb820c2d89b8d6da3e42ef6a39089c831)|[0x267...8bcb](https://etherscan.io/address/0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb)|
+|NFT 集合|[EPG](https://element.market/collections/element-pass-genesis)|[EPS](https://element.market/collections/element-pass-genesis)|
+
+
+注：
+
+
 
 ### EPG 权益
 
@@ -42,46 +61,6 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 
 ## EP 系列之 EPG
 
-### 发售
-
-**Mint 时间**
-
-2023年3月21日19:00点 (SGT)/11:00点(UTC)
-![EPG Mint](./assets/epg/EPG-Mint.jpeg)
-
-
-**开图时间**
-
-2023年4月4日
-![EPG 开图](./assets/epg/EPG-Avatar.jpeg)
-
-**Mint 网站**
-
-https://eledao.io/nft
-
-**总量**
-
-2500
-
-**定价**
-
-- 白单价：0.18E/个
-
-- 公售价：0.25E/个
-
-注：白单阶段就已全部打完（分必中白和幸运白两种）
-
-**发行链**
-
-以太坊
-
-**合约地址**
-
-[0x67405cadb820c2d89b8d6da3e42ef6a39089c831](https://etherscan.io/address/0x67405cadb820c2d89b8d6da3e42ef6a39089c831)
-
-**NFT 集合**
-
-https://element.market/collections/element-pass-genesis
 
 ### 1/1 NFT
 
@@ -131,45 +110,4 @@ https://element.market/collections/element-pass-genesis
 
 ## EP 系列之 EPS
 
-### 发售
 
-**Mint 时间**
-
-- 必中白：4月14日 19:00（SGT）
-
-- 幸运白：4月14日 21:00（SGT）
-
-- 公售：4月14日 23:00 （SGT）
-
-**开图时间**
-
-2023年6月15日
-
-
-**Mint 网站**
-
-https://eledao.io/nft
-
-**总量**
-
-20000
-
-**定价**
-
-- 白单价：0.045E/个
-
-- 公售价：0.06E/个
-
-注：白单阶段就已全部打完（分必中白和幸运白两种）
-
-**发行链**
-
-以太坊
-
-**合约地址**
-
-[0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb](https://etherscan.io/address/0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb)
-
-**NFT 集合**
-
-https://element.market/collections/element-pass-standard
