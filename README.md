@@ -23,11 +23,11 @@ Element 标准权益卡（Element Pass Standard），简称 **EPS**。
 |Mint 平台|[ELE DAO](https://eledao.io)|[ELE DAO](https://eledao.io)|
 |Free Mint|0|2500 [<sup>3</sup>](#desc)|
 |Mint 价格|0.18 E [<sup>4</sup>](#desc)|0.045 E [<sup>5</sup>](#desc)|
-|开图时间|2023年4月4日|2023年6月15日|
+|开图时间|2023年4月4日|2023年6月6日|
 |质押时间|2023年5月15日|2023年6月6日|
 |链上发行|以太坊|以太坊|
 |合约地址|[0x674...c831](https://etherscan.io/address/0x67405cadb820c2d89b8d6da3e42ef6a39089c831)|[0x267...8bcb](https://etherscan.io/address/0x2675616c14eb3f56db556c1ff95aaf2a19c88bcb)|
-|NFT 集合|[EPG](https://element.market/collections/element-pass-genesis)|[EPS](https://element.market/collections/element-pass-genesis)|
+|NFT 集合|[EPG](https://element.market/collections/element-pass-genesis)|[EPS](https://element.market/collections/element-pass-standard)|
 
 
 <div id="desc"></div>
@@ -39,7 +39,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 
 [3] 每个 EPG 持有者可以获得 1 个 EPS 免费 Mint 的权利。每个地址上限 Mint 100个。
 
-[4]一个必中白地址可以 mint 2个，价格 0.18 E，需要验资，余额>=0.5 E；
+[4]EPG：一个必中白地址可以 mint 2个，价格 0.18 E，需要验资，余额>=0.5 E；
 一个幸运白可以 Mint 1个，价格 0.18 E，先到先得，余额>=0.3 E；
 公售可以 Mint 1个，价格 0.18 E，先到先得；
 
