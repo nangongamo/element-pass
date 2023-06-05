@@ -109,6 +109,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[UltiVerse](https://www.ultiverse.io)|元宇宙|2023/5/23 [推特](https://twitter.com/UltiverseDAO/status/1661027608681930753?s=20)|[#515](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/515)|0.214|1885|[0xc39...ca0c](https://element.market/account/0xc39dd31c41b136a6e9e5cdb5afca7c2b1b0dca0c)|
 |[GoodLuck Pandas](https://goodluckpandas.com/)|DAO 社区|2023/5/24 [推特](https://twitter.com/GoodLuckPandas/status/1661269795348819968?s=20)|[#1450](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1450)|0.787|2444|[bucuo.eth](https://element.market/account/0xf743a6bf3a86398b6ab1ee1af603907acd89f1d9)|
 |[DA-AGE](https://www.da-age.io/)|XR 广告|2023/5/25 [推特](https://twitter.com/DA_AGE_CN/status/1661595974517796864?s=20)|[#492](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/492)|0.18|501|[0xaa3...caa2](https://element.market/account/0xaa3848013ccc561237abaf33b6f3562cd98acaa2)|
+|[Ordinals Miner](https://www.ordminer.io/)|游戏|2023/ [推特](https://twitter.com/OrdMiner_BRC20/status/1665622581980938242?s=20)|[#1052](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1052)|0.59|819|[0x8a0...0aaf](https://element.market/account/0x8a0795e1982d78ce96cf7cc6160f34dd33d60aaf)|
 |[-]()|-|2023/ [推特](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|
 
 ### 权益
