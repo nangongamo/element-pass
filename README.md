@@ -83,7 +83,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 
 ### 生态合作伙伴入驻
 
-|项目名|项目类型|官宣时间| NFT 编号| 成本价(E)|稀有排名|拥有者|状态|
+|项目名|项目类型|官宣时间|编号|成本(E)|稀有|拥有者|状态|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |[Debox](https://debox.pro/)|Web3 社交|2023/3/31 [推特](https://twitter.com/DeBox_Social/status/1641707256919265280?s=20)|[#190](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/190)|0.317|1752|[DeBox_Social](https://element.market/account/0x36ff2468daa79f52d88d7359a631cf7ab4bdc8bb)|正常|
 |[Baby Wealthy Club](https://babywealthyclub.com/)|BNB 生态|2023/4/1 [推特](https://twitter.com/BabyWealthyClub/status/1642055523674771461?s=20)|[#51](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/51)|0.18|1318|[0x64b...0587](https://element.market/account/0x64bbd415477825825602373232121a3034a20587)|正常|
