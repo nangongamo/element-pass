@@ -112,13 +112,13 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[Ordinals Miner](https://www.ordminer.io/)|游戏|[2023/6/5](https://twitter.com/OrdMiner_BRC20/status/1665622581980938242?s=20)|[#1052](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1052)|0.59/0.36|819|[0x8a0...0aaf](https://element.market/account/0x8a0795e1982d78ce96cf7cc6160f34dd33d60aaf)|💔|
 |[ValTower](https://valtower.io/)|游戏|[2023/6/5](https://twitter.com/ValTower_Game/status/1665739726257631233?s=20)|[#1615](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1615)|0.34|2421|[0x9fc...5e73](https://element.market/account/0x9fc3bb23568150369b025af54111cc8273f25e73)|✅|
 |[VIP3](https://vip3.io/)|Web3 社区|[2023/6/6](https://twitter.com/web3vip/status/1666005497030529025?s=20)|[#1666](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1666)|0.18|1521|[arnoxu.eth](https://element.market/account/0x4ff992f801a4b363bff45961f87859777646638c)|✅|
-|[zkDudes](https://www.dudesnft.io/)|zkSync NFT|[2023/6/19](https://twitter.com/dudesnfts/status/1670735725891928065?s=20)|[#671](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/671)|0.229|903|[0x3c4...f9d3](https://element.market/account/0x3c424277a78a9e28db035e83820dcbfdcb3ef9d3)|💰|
+|[zkDudes](https://www.dudesnft.io/)|NFT|[2023/6/19](https://twitter.com/dudesnfts/status/1670735725891928065?s=20)|[#671](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/671)|0.229|903|[0x3c4...f9d3](https://element.market/account/0x3c424277a78a9e28db035e83820dcbfdcb3ef9d3)|💰|
 |[SERAPH](https://www.seraph.game/)|游戏|[2023/6/19](https://twitter.com/Seraph_crypto/status/1670804731491414017?s=20)|[#2306](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/2306)|0.22|1481|[0xbb3...555d](https://element.market/account/0xbb312a76903ac798c7d26b18259c0ac28196555d)|✅|
+|[ZkPengz](https://zkpengz.com/)|NFT|[2023/6/21 ](https://twitter.com/zkPengz/status/1671433413419491328?s=20)|[#678](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/678)|0.19|178|[0xff4...8c8c](https://element.market/account/0xff488e57dea73dd92f191a4ebba99434474b8c8c)|✅|
 |[-]()|-|[2023/ ](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|✅|
 
 ```
 注：
-
 ✅ 正常持有
 💰 挂单售卖
 💔 已清仓 
