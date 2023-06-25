@@ -114,8 +114,8 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[VIP3](https://vip3.io/)|Web3 社区|[2023/6/6](https://twitter.com/web3vip/status/1666005497030529025?s=20)|[#1666](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1666)|0.18|1521|[arnoxu.eth](https://element.market/account/0x4ff992f801a4b363bff45961f87859777646638c)|✅|
 |[zkDudes](https://www.dudesnft.io/)|NFT|[2023/6/19](https://twitter.com/dudesnfts/status/1670735725891928065?s=20)|[#671](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/671)|0.229|903|[0x3c4...f9d3](https://element.market/account/0x3c424277a78a9e28db035e83820dcbfdcb3ef9d3)|💰|
 |[SERAPH](https://www.seraph.game/)|游戏|[2023/6/19](https://twitter.com/Seraph_crypto/status/1670804731491414017?s=20)|[#2306](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/2306)|0.22|1481|[0xbb3...555d](https://element.market/account/0xbb312a76903ac798c7d26b18259c0ac28196555d)|✅|
-|[ZkPengz](https://zkpengz.com/)|NFT|[2023/6/21 ](https://twitter.com/zkPengz/status/1671433413419491328?s=20)|[#678](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/678)|0.19|178|[0xff4...8c8c](https://element.market/account/0xff488e57dea73dd92f191a4ebba99434474b8c8c)|✅|
 |[Gametacus](https://www.gametacus.com/)|游戏|[2023/6/21](https://twitter.com/Gametacus2023/status/1671391993900171265?s=20)|[#1153](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1153)|0.1899|189|[0xee8...5684](https://element.market/account/0xee8e10aca2ce8bb928a6f84cd7bca52b06065684)|✅|
+|[ZkPengz](https://zkpengz.com/)|NFT|[2023/6/21 ](https://twitter.com/zkPengz/status/1671433413419491328?s=20)|[#678](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/678)|0.19|178|[0xff4...8c8c](https://element.market/account/0xff488e57dea73dd92f191a4ebba99434474b8c8c)|✅|
 |[-]()|-|[2023/ ](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|✅|
 
 ```
@@ -134,9 +134,14 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 
 该阶段（2023/5/15-2023/6/13）空投持续30天，Element 平台共计为 EPG 持有者空投 25,000,000 个 $ELE（占总量的 1.25%），这期间每位 EPG 持有者可获得 10,000 个 $ELE 代币 ，30天内线性释放，即每天每个 EPG 的持有者可获得 334 个 $ELE。
 
+[👉空投领取地址](https://element.market/staking)
+
+
 **第二期 $ELE 空投**
 
 该阶段（2023/5/15-2023/6/13）空投持续365天，Element 平台共计为 EPG 持有者空投 10,950,000 个 $ELE（占总量的 0.55%），这期间每位 EPG 持有者可获得 4,380 个 $ELE 代币 ，365天内线性释放，即每天每个 EPG 的持有者可获得 12 个 $ELE。
+
+[👉空投领取地址](https://element.market/staking)
 
 
 ## EP 系列之 EPS
@@ -146,6 +151,8 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 **第一期 $ELE 空投**
 
 该阶段（2023/6/7-2023/9/14）Element 平台共计为 EPS 持有者空投 36,000,000 个 $ELE（占总量的 1.8%），这期间每位 EPS 持有者可获得 1,800个 $ELE 代币，100天内线性释放，即每天每个 EPS 持有者可获得 18 个 $ELE。
+
+[👉空投领取地址](https://element.market/staking)
 
 **第一期 $ELE 空投**
 
