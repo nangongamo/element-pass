@@ -105,11 +105,11 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[TokenPocket](https://www.tokenpocket.pro/)|Web3 钱包|[2023/5/18](https://twitter.com/TokenPocket_TP/status/1659073614547755009?s=20)|[#200](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/200)|0.2469|48|[itokenpocket](https://element.market/account/0x7a5dcacc92c7e15d61fad56c67d2edd001d142b7)|✅|
 |[ChainCatcher](https://www.chaincatcher.com/)|媒体资讯|[2023/5/22](https://twitter.com/ChainCatcher_/status/1660566227646033921?s=20)|[#696](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/696)|0.678|604|[henryyuan](https://element.market/account/0x3f24c2f6a72454afe497f54e6a18b46ed5045dee)|✅|
 |SEA 漫游公会|链游公会|[2023/5/23](https://twitter.com/SNEBtongxuehui/status/1660876529486942209?s=20)|[#542](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/542)|0.18|1361|[0xb3c...f7777](https://element.market/account/0xb3c3eb6f25dfa70c5111381b9e7a8cd0e40ff777)|✅|
-|ORC20 Dao|DAO 社区|[2023/5/23](https://twitter.com/Ordinals_Orc20/status/1660916076870533120?s=20)|[#491](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/491)|0.618/0.57|1518|[0x9c8...94d6](https://element.market/account/0x9c8337039978ec35b6b25985ddcbb25dde9e94d6)|💔|
+|<s>ORC20 Dao</s>|DAO 社区|[2023/5/23](https://twitter.com/Ordinals_Orc20/status/1660916076870533120?s=20)|[#491](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/491)|0.618/0.57|1518|[0x9c8...94d6](https://element.market/account/0x9c8337039978ec35b6b25985ddcbb25dde9e94d6)|💔|
 |[UltiVerse](https://www.ultiverse.io)|元宇宙|[2023/5/23](https://twitter.com/UltiverseDAO/status/1661027608681930753?s=20)|[#515](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/515)|0.214|1885|[0xc39...ca0c](https://element.market/account/0xc39dd31c41b136a6e9e5cdb5afca7c2b1b0dca0c)|✅|
 |[GoodLuck Pandas](https://goodluckpandas.com/)|DAO 社区|[2023/5/24](https://twitter.com/GoodLuckPandas/status/1661269795348819968?s=20)|[#1450](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1450)|0.787|2444|[bucuo.eth](https://element.market/account/0xf743a6bf3a86398b6ab1ee1af603907acd89f1d9)|✅|
 |[DA-AGE](https://www.da-age.io/)|XR 广告|[2023/5/25](https://twitter.com/DA_AGE_CN/status/1661595974517796864?s=20)|[#492](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/492)|0.18|501|[0xaa3...caa2](https://element.market/account/0xaa3848013ccc561237abaf33b6f3562cd98acaa2)|✅|
-|[Ordinals Miner](https://www.ordminer.io/)|游戏|[2023/6/5](https://twitter.com/OrdMiner_BRC20/status/1665622581980938242?s=20)|[#1052](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1052)|0.59/0.36|819|[0x8a0...0aaf](https://element.market/account/0x8a0795e1982d78ce96cf7cc6160f34dd33d60aaf)|💔|
+|[<s>Ordinals Miner</s>](https://www.ordminer.io/)|游戏|[2023/6/5](https://twitter.com/OrdMiner_BRC20/status/1665622581980938242?s=20)|[#1052](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1052)|0.59/0.36|819|[0x8a0...0aaf](https://element.market/account/0x8a0795e1982d78ce96cf7cc6160f34dd33d60aaf)|💔|
 |[ValTower](https://valtower.io/)|游戏|[2023/6/5](https://twitter.com/ValTower_Game/status/1665739726257631233?s=20)|[#1615](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1615)|0.34|2421|[0x9fc...5e73](https://element.market/account/0x9fc3bb23568150369b025af54111cc8273f25e73)|✅|
 |[VIP3](https://vip3.io/)|Web3 社区|[2023/6/6](https://twitter.com/web3vip/status/1666005497030529025?s=20)|[#1666](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1666)|0.18|1521|[arnoxu.eth](https://element.market/account/0x4ff992f801a4b363bff45961f87859777646638c)|✅|
 |[zkDudes](https://www.dudesnft.io/)|NFT|[2023/6/19](https://twitter.com/dudesnfts/status/1670735725891928065?s=20)|[#671](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/671)|0.229|903|[0x3c4...f9d3](https://element.market/account/0x3c424277a78a9e28db035e83820dcbfdcb3ef9d3)|💰|
@@ -124,6 +124,8 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 💰 挂单售卖
 💔 已清仓 
 ```
+共计有<b>29个</b>项目有效入驻。
+
 
 
 
