@@ -116,6 +116,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[SERAPH](https://www.seraph.game/)|游戏|[2023/6/19](https://twitter.com/Seraph_crypto/status/1670804731491414017?s=20)|[#2306](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/2306)|0.22|1481|[0xbb3...555d](https://element.market/account/0xbb312a76903ac798c7d26b18259c0ac28196555d)|✅|
 |[Gametacus](https://www.gametacus.com/)|游戏|[2023/6/21](https://twitter.com/Gametacus2023/status/1671391993900171265?s=20)|[#1153](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1153)|0.1899|189|[0xee8...5684](https://element.market/account/0xee8e10aca2ce8bb928a6f84cd7bca52b06065684)|✅|
 |[ZkPengz](https://zkpengz.com/)|NFT|[2023/6/21 ](https://twitter.com/zkPengz/status/1671433413419491328?s=20)|[#678](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/678)|0.19|178|[0xff4...8c8c](https://element.market/account/0xff488e57dea73dd92f191a4ebba99434474b8c8c)|✅|
+|[ArbDoge AI](https://arbdoge.ai/)|NFT&AI|[2023/6/26 ](https://twitter.com/ArbDogeAI/status/1673245495068704768?s=20)|[#1974](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1974)|0.18|1898|[0x1b2...d5b6](https://element.market/account/0x1b2c86e6921a7949b8a6264b5d22ecc22325d5b6)|✅|
 |[-]()|-|[2023/ ](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|✅|
 
 ```
