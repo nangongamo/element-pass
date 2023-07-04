@@ -117,6 +117,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 |[Gametacus](https://www.gametacus.com/)|游戏|[2023/6/21](https://twitter.com/Gametacus2023/status/1671391993900171265?s=20)|[#1153](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1153)|0.1899|189|[0xee8...5684](https://element.market/account/0xee8e10aca2ce8bb928a6f84cd7bca52b06065684)|✅|
 |[ZkPengz](https://zkpengz.com/)|NFT|[2023/6/21 ](https://twitter.com/zkPengz/status/1671433413419491328?s=20)|[#678](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/678)|0.19|178|[0xff4...8c8c](https://element.market/account/0xff488e57dea73dd92f191a4ebba99434474b8c8c)|✅|
 |[ArbDoge AI](https://arbdoge.ai/)|NFT&AI|[2023/6/26 ](https://twitter.com/ArbDogeAI/status/1673245495068704768?s=20)|[#1974](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1974)|0.18|1898|[0x1b2...d5b6](https://element.market/account/0x1b2c86e6921a7949b8a6264b5d22ecc22325d5b6)|✅|
+|[MetaCene](https://www.metacene.io/)|游戏|[2023/6/28](https://twitter.com/MetaCeneGame/status/1673958255826206723?s=20)|[#1883](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/1883)|0.175|96|[0x6ed...3a58](https://element.market/account/0x6ed0bada6bac4f3badf3799ffef9ff6201303a58)|✅|
 |[Nooties](https://www.noot.fun/)|MemeFi|[2023/6/30](https://twitter.com/nootcoinbnb/status/1674786699032018946?s=20)|[#2225](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/2225)|0.5397|899|[0x163...f5b3](https://element.market/account/0x163bf2970c2b142078f4e5a8ee2cf72c8d52f5b3)|✅|
 |[-]()|-|[2023/ ](-)|[#](https://element.market/assets/ethereum/0x67405cadb820c2d89b8d6da3e42ef6a39089c831/)|0.18|-|[0x...]()|✅|
 
@@ -126,7 +127,7 @@ EPG 必中白：2023/3/21 19:00（SGT）; 幸运白：3/21 21:00（SGT）; 公�
 💰 挂单售卖
 💔 已清仓 
 ```
-共计有<b>31个</b>有效的项目入驻 [ELE DAO](https://eledao.io) 。
+共计有<b>32个</b>有效的项目入驻 [ELE DAO](https://eledao.io) 。
 
 
 
